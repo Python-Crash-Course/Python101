@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# PDF's
+*.pdf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# png-files
+*.png
