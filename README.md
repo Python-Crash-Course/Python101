@@ -9,7 +9,7 @@ In the *code* tab of this repository there will be a folder for each session. In
 
 * [Session 1 - Data Types](http://htmlpreview.github.io/?https://github.com/Python-Crash-Course/Python101/blob/master/Session%201%20-%20Data%20Types/Session%201%20-%20Explanation%20and%20Exercises.html)
 
-* [Session 2 - Data Structures](http://htmlpreview.github.io/?https://github.com/Python-Crash-Course/Python101/blob/master/Session%202%20-%20Data%20Structures/Session%202%20-%20Explanation%20and%20Exercises.html)
+* [Session 2 - Data Structures](<a href="http://htmlpreview.github.io/?https://github.com/Python-Crash-Course/Python101/blob/master/Session%202%20-%20Data%20Structures/Session%202%20-%20Explanation%20and%20Exercises.html"</a>)
 
 * [Session 3 - Functions](http://htmlpreview.github.io/?https://github.com/Python-Crash-Course/Python101/blob/master/Session%203%20-%20Functions/Session%203%20-%20Explanation%20and%20exercises.html)
 
@@ -23,8 +23,9 @@ In the *code* tab of this repository there will be a folder for each session. In
 
 * [Session 8 - Interpolation](http://htmlpreview.github.io/?https://github.com/Python-Crash-Course/Python101/blob/master/Session%208%20-%20Interpolation/Session%208%20-%20Exercise%20(Interpolation).html)
 
-* [Session 9 - Heatmaps and Merging Operations](http://htmlpreview.github.io/?https://github.com/Python-Crash-Course/Python101/tree/master/Session%209%20-%20Heatmaps%20and%20merging%20operation)
+* <a href="http://htmlpreview.github.io/?https://github.com/Python-Crash-Course/Python101/tree/master/Session%209%20-%20Heatmaps%20and%20merging%20operation">Session 9 - Heatmaps and Merging Operations</a>
 
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 ## Session Solutions
 
