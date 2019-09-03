@@ -111,5 +111,5 @@ venv.bak/
 
 # png-files
 *.png
-!matplotlib_objects.png
+!matplotlib_objects_anatomy_of_a_figure.png
 !BS301_LC4069.png
