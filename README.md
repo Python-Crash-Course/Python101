@@ -50,7 +50,7 @@ In the *code* tab of this repository there will be a folder for each session. In
 
 ## Course Notes
 Some notes have been prepared for the course, but is still work in progress:
-[Course Notes (work in progress)](https://github.com/Python-Crash-Course/Python101/blob/master/Course%20Notes/Python%20Course%20Notes.html)
+[Course Notes (work in progress)](http://htmlpreview.github.io/?https://github.com/Python-Crash-Course/Python101/blob/master/Course%20Notes/Python%20Course%20Notes.html)
 
 These notes have some content that overlaps with the notes for each session, but is in general a more overall description. It also contains more detailed explanations of some topics that did not fit into the session notes. 
 
