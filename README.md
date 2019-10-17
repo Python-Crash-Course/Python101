@@ -1,9 +1,15 @@
 ![](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
 ## Python 101 - Python for Beginners
-
-This GitHub repository contains material for a beginner Python course held in COWI Lyngby during Fall 2019.
-
+![License](https://img.shields.io/github/license/Python-Crash-Course/Python101)
+![Stars](https://img.shields.io/github/stars/Python-Crash-Course/Python101)
+![Issues Open](https://img.shields.io/github/issues-raw/Python-Crash-Course/Python101)
+![Issues Closed](https://img.shields.io/github/issues-closed-raw/Python-Crash-Course/Python101)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+ 
+ 
+ This GitHub repository contains material for a beginner Python course held in COWI Lyngby during Fall 2019.
+ 
 ## :blue_book: Sessions Notes and Exercises 
 Descriptions and exercises for each session are in the format of HTML-files created with Jupyter Notebooks. See links to the files for each session below.
 
