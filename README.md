@@ -2,11 +2,12 @@
 
 ## Python 101 - Python for Beginners
 ![License](https://img.shields.io/github/license/Python-Crash-Course/Python101)
-![Stars](https://img.shields.io/github/stars/Python-Crash-Course/Python101)
+![GitHub stars](https://img.shields.io/github/stars/Python-Crash-Course/Python101?style=social&label=Star&maxAge=2592000)
 ![Issues Open](https://img.shields.io/github/issues-raw/Python-Crash-Course/Python101)
 ![Issues Closed](https://img.shields.io/github/issues-closed-raw/Python-Crash-Course/Python101)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
- 
+![Last Commit](https://img.shields.io/github/last-commit/Python-Crash-Course/Python101)
+![Contributors](https://img.shields.io/github/contributors/Python-Crash-Course/Python101)
  
  This GitHub repository contains material for a beginner Python course held in COWI Lyngby during Fall 2019.
  
