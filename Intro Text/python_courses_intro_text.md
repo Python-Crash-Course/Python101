@@ -6,22 +6,23 @@
 
 Lately there has been a lot of talk in COWI about digitalization, automation and coding. If you are intersted in digging deeper into the world of coding read on.
 
-Starting November 2019 there will be two COWI Python courses for people who want to sharpen their programming skills. Each course will meet bi-weekly on alternating weeks. Right now there are 10 sessions planned for each course.
+Starting November 2019 there will be held two COWI Python courses in Lyngby for people who want to sharpen their programming skills. Each course will meet for one hour bi-weekly on alternating weeks. Right now there are 10 sessions planned for each course.
 
 All course material lives on **GitHub**. Use the links below to view the course repositories. The ReadMe files have links for navigating around the material.
-## Python 101
+
+## Python 101 - Python for beginners
 
   * **Beginner course assuming little to no programming experience.**
 
   * See course material here: [Python 101 - Course material](https://github.com/Python-Crash-Course/Python101)
 
-## Python 201
+## Python 201 - Intermediate Python programming
 
-* **Intermediate course assuming experience roughly compared to the beginner course**
+* **Intermediate course assumes experience comparable to the beginner course**
 
 * See course material here: [Python 201 - Course material](https://github.com/Python-Crash-Course/Python201)    
 
-A typical meeting will be 10-15min explanations of topics and 50-45min for exercises.
+A typical session will be 10-15 min explanations of topics and 45-50 min for exercises.
 
 ## [Enroll for the courses here](...)
 
