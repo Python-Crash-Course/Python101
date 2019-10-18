@@ -1,14 +1,14 @@
 ![](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
 ## Python 101 - Python for Beginners
-![License](https://img.shields.io/github/license/Python-Crash-Course/Python101)
-![GitHub stars](https://img.shields.io/github/stars/Python-Crash-Course/Python101)
+[![License](https://img.shields.io/github/license/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/stargazers)
 [![Issues Open](https://img.shields.io/github/issues-raw/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/issues)
 [![Issues Closed](https://img.shields.io/github/issues-closed-raw/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-![Last Commit](https://img.shields.io/github/last-commit/Python-Crash-Course/Python101)
-![Contributors](https://img.shields.io/github/contributors/Python-Crash-Course/Python101)
- 
+[![Last Commit](https://img.shields.io/github/last-commit/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/commits/master)
+[![Contributors](https://img.shields.io/github/contributors/Python-Crash-Course/Python101)](https://github.com/orgs/Python-Crash-Course/people)
+
  This GitHub repository contains material for a beginner Python course held in COWI Lyngby during Fall 2019.
  
 ## :blue_book: Sessions Notes and Exercises 
