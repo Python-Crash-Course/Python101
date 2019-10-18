@@ -2,7 +2,7 @@
 
 ## Python 101 - Python for Beginners
 ![License](https://img.shields.io/github/license/Python-Crash-Course/Python101)
-![GitHub stars](https://img.shields.io/github/stars/Python-Crash-Course/Python101)
+![GitHub stars](https://img.shields.io/github/stars/Python-Crash-Course/Python101?label=Star)
 ![Issues Open](https://img.shields.io/github/issues-raw/Python-Crash-Course/Python101)
 ![Issues Closed](https://img.shields.io/github/issues-closed-raw/Python-Crash-Course/Python101)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
