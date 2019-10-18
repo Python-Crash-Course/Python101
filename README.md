@@ -1,8 +1,17 @@
+![](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
 ## Python 101 - Python for Beginners
-
-This GitHub repository contains material for a beginner Python course held in COWI Lyngby during Fall 2019.
-
-## Sessions Notes and Exercises
+![License](https://img.shields.io/github/license/Python-Crash-Course/Python101)
+![GitHub stars](https://img.shields.io/github/stars/Python-Crash-Course/Python101?style=social&label=Star&maxAge=2592000)
+![Issues Open](https://img.shields.io/github/issues-raw/Python-Crash-Course/Python101)
+![Issues Closed](https://img.shields.io/github/issues-closed-raw/Python-Crash-Course/Python101)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+![Last Commit](https://img.shields.io/github/last-commit/Python-Crash-Course/Python101)
+![Contributors](https://img.shields.io/github/contributors/Python-Crash-Course/Python101)
+ 
+ This GitHub repository contains material for a beginner Python course held in COWI Lyngby during Fall 2019.
+ 
+## :blue_book: Sessions Notes and Exercises 
 Descriptions and exercises for each session are in the format of HTML-files created with Jupyter Notebooks. See links to the files for each session below.
 
 In the *code* tab of this repository there will be a folder for each session. In case an exercise requires additional files like .csv-files or scripts, they will be present there.
@@ -26,7 +35,7 @@ In the *code* tab of this repository there will be a folder for each session. In
 * [Session 9 - Heatmaps and Merging Operation](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%209%20-%20Heatmaps%20and%20merging%20operation/Session%209%20-%20Heatmaps%20and%20merging%20operations.ipynb)
 
 
-## Session Exercise Solutions
+## :green_book: Session Exercise Solutions
 
 
 * Session 1 - Data Types (No solutions)
@@ -48,11 +57,55 @@ In the *code* tab of this repository there will be a folder for each session. In
 * [Session 9 - Heatmaps and Merging Operations](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%209%20-%20Heatmaps%20and%20merging%20operation/Session%209%20-%20Exercise%20Solutions.ipynb)
 
 
-## Course Notes
+## :book: Course Notes
 Some notes have been prepared for the course, but is still work in progress:
 [Course Notes (work in progress)](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Course%20Notes/Python%20Course%20Notes.ipynb)
 
 These notes have some content that overlaps with the notes for each session, but is in general a more overall description. It also contains more detailed explanations of some topics that did not fit into the session notes. 
 
-## Useful Links
+## :link: Useful Links
+
+### :office: General
+* [PEP8 (Style guide for Python code)](https://www.python.org/dev/peps/pep-0008/)
+
+* [Online interpretor (write code without installing an editor)](https://www.onlinegdb.com/online_python_interpreter#)
+
+
+### :beginner: Beginner Tutorials
+
+ * [Interactive Tutorial from DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+ 
+### :clapper: Videos
+
+* [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+   - Videos with very clear and beginner friendly explanations of programming. Most of the videos focus on Python. Go to playlists and find the beginner tutorials to get started.
+
+* [Sentdex](https://www.youtube.com/user/sentdex)
+   - Videos on many topics ranging from beginner to advanced.
+   
+ 
+### :heavy_check_mark: Git and GitHub
+* [Ressources to Learn Git](https://try.github.io/)
+
+* [Git and GitHub for Beginners](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
+
+   
+ ### :chart_with_upwards_trend: Coding Challenge Sites
+* [CodeWars (Coding challenge site)](https://www.codewars.com/)
+
+* [Edabit (Coding challenge site)](https://edabit.com/)   
+   
+### :books: Miscellaneous
+  
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+* [Python Cheat Sheets](https://www.pythonsheets.com/)
+
+* [Top 50 Matplotlib Visualizations](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
+
+* [Pactical Business Python (Pandas focused website)](https://pbpython.com/)
+
+* [Common Excel Tasks Demonstrated in Pandas](https://pbpython.com/excel-pandas-comp.html)
+
+
 
