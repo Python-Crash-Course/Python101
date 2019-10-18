@@ -1,5 +1,8 @@
+
 # Python Courses in COWI BTM
 ***Oct. 2019***
+
+<div style="text-align:center"><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" /></div>
 
 Lately there has been a lot of talk in COWI about digitalization, automation and coding. If you are intersted in digging deeper into the world of coding read on.
 
