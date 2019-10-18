@@ -24,7 +24,7 @@ A typical meeting will be 10-15min explanations of topics and 50-45min for exerc
 
 * It's fine to follow both courses. The beginner course will typically be a week ahead of the intermediate course.
 
-* Enrollment is not binding, so it's perfectly fine to follow along for the first couple of sessions and then drop off if the interest declines. You can always go back and look at the material later if need be.
+* Enrollment is not binding, so it's perfectly fine to follow along the first couple of sessions and then drop off if the interest declines. You can always go back and look at the material later if need be.
 
 * If you plan to follow along, it would be a good idea to create a [GitHub](https://github.com/) account if you don't already have one.
 
