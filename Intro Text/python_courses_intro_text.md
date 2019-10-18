@@ -24,7 +24,7 @@ All course material lives on **GitHub**. Use the links below to view the course 
 
 A typical session will be 10-15 min explanations of topics and 45-50 min for exercises.
 
-## [Enroll for the courses here](...)
+## Enroll for the courses [here](/com/c000919/_layouts/15/listform.aspx?PageType=8&ListId=%7b35200A22-3290-4197-93AF-A6E8978210F7%7d&RootFolder=)
 
 * It's fine to follow both courses. The beginner course will typically be a week ahead of the intermediate course.
 
