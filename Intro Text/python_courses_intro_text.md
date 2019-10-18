@@ -14,17 +14,17 @@ All course material lives on **GitHub**. Use the links below to view the course 
 
   * **Beginner course assuming little to no programming experience.**
 
-  * See course material here: [Python 101 - Course material](https://github.com/Python-Crash-Course/Python101)
+  * See course material here: [Python 101 - Course material](https://github.com/Python-Crash-Course/Python101){:target="_blank"}
 
 ## Python 201 - Intermediate Python programming
 
 * **Intermediate course assumes experience comparable to the beginner course**
 
-* See course material here: [Python 201 - Course material](https://github.com/Python-Crash-Course/Python201)    
+* See course material here: [Python 201 - Course material](https://github.com/Python-Crash-Course/Python201){:target="_blank"}   
 
 A typical session will be 10-15 min explanations of topics and 45-50 min for exercises.
 
-## Enroll for the courses [here](http://www.cowiportal.com/com/c000919/_layouts/15/listform.aspx?PageType=8&ListId=%7b35200A22-3290-4197-93AF-A6E8978210F7%7d&RootFolder=)
+## Enroll for the courses [here](http://www.cowiportal.com/com/c000919/_layouts/15/listform.aspx?PageType=8&ListId=%7b35200A22-3290-4197-93AF-A6E8978210F7%7d&RootFolder=){:target="_blank"}
 
 * It's fine to follow both courses. The beginner course will typically be a week ahead of the intermediate course.
 
