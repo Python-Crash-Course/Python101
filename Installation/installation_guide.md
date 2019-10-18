@@ -12,7 +12,7 @@ Make sure to select Python 3 as language in the top right of the site.
 >_As new versions are constantly being released, this guide might not be fully up-to-date._
 >_There are multiple ways of installing Python. The method described below is just one way that comes with some benefits_
 
-## Anaconda and Minoconda
+## Anaconda and Miniconda
 We will be using a common distribution of Python called Anaconda, which includes some benefits and pre-setup compared to installing directly from the Python website. We use a minimal installer called Miniconda, which is a lightweight version of the bigger Anaconda.
 
 **Note:** If you already have a working installation of Python on your system that you are comfortable using, you don't need to follow this installation guide.
