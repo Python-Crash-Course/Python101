@@ -48,5 +48,6 @@ The language is very flexible and allows people to build open source libraries/a
 Moreover, Python is also listed as supported API language for much of the software that we already use. Thus, it can be used to automate repetitive tasks in the daily work.
 Examples of software that has Python as API language is SAP2000, Plaxis, Grasshopper, Dynamo and ABAQUS.
 
-**Best regards**
+**Best regards**,
+
 KEKL (Kenneth C. Kleissl) and TSJA (Tim Skov Jacobsen)
