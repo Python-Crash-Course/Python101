@@ -11,7 +11,7 @@
 
  This GitHub repository contains material for a beginner Python course held in COWI Lyngby during Fall 2019.
  
-## :blue_book: Sessions Notes and Exercises 
+## Sessions Notes and Exercises 
 Descriptions and exercises for each session are in the format of HTML-files created with Jupyter Notebooks. See links to the files for each session below.
 
 In the *code* tab of this repository there will be a folder for each session. In case an exercise requires additional files like .csv-files or scripts, they will be present there.
@@ -35,7 +35,7 @@ In the *code* tab of this repository there will be a folder for each session. In
 * [Session 9 - Heatmaps and Merging Operation](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%209%20-%20Heatmaps%20and%20merging%20operation/Session%209%20-%20Heatmaps%20and%20merging%20operations.ipynb)
 
 
-## :green_book: Session Exercise Solutions
+## Session Exercise Solutions
 
 
 * Session 1 - Data Types (No solutions)
@@ -57,25 +57,25 @@ In the *code* tab of this repository there will be a folder for each session. In
 * [Session 9 - Heatmaps and Merging Operations](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%209%20-%20Heatmaps%20and%20merging%20operation/Session%209%20-%20Exercise%20Solutions.ipynb)
 
 
-## :book: Course Notes
+## Course Notes
 Some notes have been prepared for the course, but is still work in progress:
 [Course Notes (work in progress)](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Course%20Notes/Python%20Course%20Notes.ipynb)
 
 These notes have some content that overlaps with the notes for each session, but is in general a more overall description. It also contains more detailed explanations of some topics that did not fit into the session notes. 
 
-## :link: Useful Links
+## Useful Links
 
-### :office: General
+### General
 * [PEP8 (Style guide for Python code)](https://www.python.org/dev/peps/pep-0008/)
 
 * [Online interpretor (write code without installing an editor)](https://www.onlinegdb.com/online_python_interpreter#)
 
 
-### :beginner: Beginner Tutorials
+### Beginner Tutorials
 
  * [Interactive Tutorial from DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
  
-### :clapper: Videos
+### Videos
 
 * [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
    - Videos with very clear and beginner friendly explanations of programming. Most of the videos focus on Python. Go to playlists and find the beginner tutorials to get started.
@@ -84,18 +84,18 @@ These notes have some content that overlaps with the notes for each session, but
    - Videos on many topics ranging from beginner to advanced.
    
  
-### :heavy_check_mark: Git and GitHub
+### Git and GitHub
 * [Ressources to Learn Git](https://try.github.io/)
 
 * [Git and GitHub for Beginners](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
 
    
- ### :chart_with_upwards_trend: Coding Challenge Sites
+ ### Coding Challenge Sites
 * [CodeWars (Coding challenge site)](https://www.codewars.com/)
 
 * [Edabit (Coding challenge site)](https://edabit.com/)   
    
-### :books: Miscellaneous
+### Miscellaneous
   
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
