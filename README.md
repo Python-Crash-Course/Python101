@@ -90,7 +90,7 @@ These notes have some content that overlaps with the notes for each session, but
 * [Git and GitHub for Beginners](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
 
    
- ### Coding Challenge Sites
+### Coding Challenge Sites
 * [CodeWars (Coding challenge site)](https://www.codewars.com/)
 
 * [Edabit (Coding challenge site)](https://edabit.com/)   
