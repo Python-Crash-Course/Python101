@@ -21,7 +21,6 @@ If you intend to use version control you should also install Git:
 > https://github.com/git-for-windows/git/releases/download/v2.24.0.windows.1/Git-2.24.0-64-bit.exe
 
 ## Miniconda
-
 Miniconda is a lightwieght version of a common distribution of Python called Anaconda, it's supposed to be a more user friendly installation. This installation makes it easy to work in an editor called Spyder, which has a lot of similarities with the Matlab environment.
 
 **Note:** If you already have a working installation of Python on your system that you are comfortable using, you don't need to follow this installation guide.
