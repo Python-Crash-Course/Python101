@@ -5,12 +5,20 @@ If you want to try out the basics without installing Python on your PC, try the 
 
 Make sure to select Python 3 as language in the top right of the site.
 
-# Installation guide
-***Oct. 2019***
+# Installation guide for Python environment
+***Nov. 2019***
 
 > ***Note:***
->_As new versions are constantly being released, this guide might not be fully up-to-date._
->_There are multiple ways of installing Python. The method described below is just one way that comes with some benefits_
+>_This guide does not nesessarily always refer to the latest released version._
+>_Stable and well tested releases with high adoption among popular 3rd-party libaries are prioritised._
+>_Also, there do exist alternativ ways of installing Python. While, the section below describes the recommended method also presumed in the crash course, the most popular alternative are also described below._
+
+## Recommended installation
+First install the basic Python application and **remember to tick the "add to path"** option (avoid installing it for all users as this will require admin rights):
+> Python 3.7.5 (64-bit) https://www.python.org/ftp/python/3.7.5/python-3.7.5-amd64.exe
+
+If you intend to use version control you should also install Git:
+> https://github.com/git-for-windows/git/releases/download/v2.24.0.windows.1/Git-2.24.0-64-bit.exe
 
 ## Anaconda and Miniconda
 We will be using a common distribution of Python called Anaconda, which includes some benefits and pre-setup compared to installing directly from the Python website. We use a minimal installer called Miniconda, which is a lightweight version of the bigger Anaconda.
