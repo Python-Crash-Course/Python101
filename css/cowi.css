@@ -41,8 +41,8 @@ h1 {
     width: 100%;
     text-align: left;
     color: #EE7631;
-    border-bottom: 1px solid #EE7631;
-    /* padding: 5px; */
+    border-bottom: 1px solid rgba(238, 118, 49, 0.575);
+    padding-bottom: 6px;
     /* font-variant: small-caps; */
     }
   
@@ -79,8 +79,8 @@ h2 {
         color: #EE7631;
         margin-bottom: 5px;
         /* border-bottom: 1px solid lightgray; */
-        border-bottom: 0.5px solid #EE7631;
-        padding: 5px
+        border-bottom: 0.8px solid rgba(238, 118, 49, 0.575);
+        padding-bottom: 6px
     }
   
     /* table {
@@ -115,7 +115,7 @@ h3 {
         /* color: #EE7631; */
         /* margin-bottom: 5px; */
         border-bottom: 0.5px solid #ededed;
-        padding: 5px
+        padding-bottom: 6px
     }
 
 
