@@ -20,22 +20,23 @@ First install the basic Python application and **remember to tick the "add to pa
 If you intend to use version control you should also install Git:
 > https://github.com/git-for-windows/git/releases/download/v2.24.0.windows.1/Git-2.24.0-64-bit.exe
 
-## Anaconda and Miniconda
-We will be using a common distribution of Python called Anaconda, which includes some benefits and pre-setup compared to installing directly from the Python website. We use a minimal installer called Miniconda, which is a lightweight version of the bigger Anaconda.
+## Miniconda
+
+Miniconda is a lightwieght version of a common distribution of Python called Anaconda, it's supposed to be a more user friendly installation. This installation makes it easy to work in an editor called Spyder, which has a lot of similarities with the Matlab environment.
 
 **Note:** If you already have a working installation of Python on your system that you are comfortable using, you don't need to follow this installation guide.
 
-##### 1.  Download and install Miniconda
-Choose installer file with Python 3.7 that suits your Windows system from this site:
+### 1.  Download and install Miniconda
+Choose the installer file with Python 3.7 that suits your Windows system from this site:
 >https://docs.conda.io/en/latest/miniconda.html
 
-In the installation section called _Advanced Installation Options_, check the box saying _Add Anaconda to my PATH environment variable_. It will say that it's not recommended, but do it anyway.
+In the installation section called *Advanced Installation Options*, check the box saying _Add Anaconda to my PATH environment variable_. It will say that it's not recommended, but do it anyway.
 ![](Add_anaconda_to_path.png)
 
 Other than this, just choose defaults for the installation.
 
-##### 2.  Install Anaconda Navigator
-Go to Start, type `anaconda prompt` and open the program. Don't get scared by the DOS-look.
+### 2.  Install Anaconda Navigator
+Go to Windows Start, type `anaconda prompt` and open the program. Don't get scared by the DOS-look.
 In the program, type
 ```
 conda install -c anaconda anaconda-navigator
@@ -44,4 +45,69 @@ and press enter to install. Type `y` when it asks.
 
 ![](Anaconda_prompt.png)
 
-##### 3.  Install Editor
+### 3.  Install Editor
+An editor is the software where the actual code is written. This could in principle be Notepad, but much more advanced editors suited for programming exist. These have syntax highlighting, auto completion while typing and much more.
+
+Shipped with the Anaconda Navigator comes an easy way to install two editors:
+
+### Visual Studio Code
+***Recommended editor for people taking the 201 course***
+
+* Many features and customization options
+* Owned by Microsoft
+* Very good Git integration for version control
+* Support for many lanuages, not just Python
+
+This is the editor KEKL and TSJA will be using.
+
+### Spyder
+***Recommended editor for people who wants a Matlab-like environment***
+
+* Easier to understand for beginners, especially when coming from Matlab
+* Has a varaible explorer and an interactive console that works with variables defined in the environment
+* Has *some* Git intregation for version control, but not as developed as VS Code
+* Support primarily for Python
+
+> **Note:** If you don't like one editor you can always install the other later.
+
+
+### Visual Studio Code - Installation
+1. **Install Visual Studio Code from Anaconda Naviagtor.**
+    
+    If it's already installed the button will say "launch" instead of "install".
+
+2. **Setup editor for running code**
+    * Launch the editr and go the the _Extensions_ tab on the left panel (short key: <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>X</kbd>)
+    * Make sure that the extension called Python is installed, which it should be already (Note that this editor that support all programming languages, not just Python)
+    * Search for and install the extension called _Code Runner_
+
+3. **Select the Python version to connect to VS Code**
+    * This might seem unnecessary, but some people have many versions of Python installed on their system.
+    * Go to _View_ -> _Command Palette_. Write `Python: Select Interpreter` and choose the interpreter (there should only be one at this point):
+    ![](select_python_interpreter.png)
+    * In case nothing shows up when you search "Python: Select Interpreter", try reinstalling the Python extension.
+
+4. **Create a Python file and run it**
+    * Go to _File_ -> _New file_. In the file write: `print('Hello world!')`. Save it and choose Python as file type in the dropdown.
+    * After saving you should see the syntax highlighting take effect.
+    * Press <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>N</kbd> to run the script. The output in the bottom of the screen should now say `'Hello world!'`
+ 
+Everything should now be setup!
+
+After using it for a while, you might get annoyed by having to save the file before each run of the script. If you want to save it automatically before running, do this:
+
+Go to the gear icon in the bottom left -> Settings -> Text Editor and scroll down to Edit in settings.json. Open the link and add this line in between the curly brackets:
+```python
+"code-runner.saveFileBeforeRun": true,
+```
+
+### Spyder - Installation
+
+1. **Install Spyder from Anaconda Naviagtor.**
+    
+    If it's already installed the button will say "launch" instead of "install".
+
+2. **Create a Python file and run it**
+
+     Spyder will already have a `temp.py` file created. Write `print('Hello world!)` and use the green arrow to run the code. 
+    You can also create your own file as `some_name.py` and run the command in that.
