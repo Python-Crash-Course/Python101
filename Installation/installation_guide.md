@@ -1,5 +1,4 @@
 # Try Python without installation
-
 If you want to try out the basics without installing Python on your PC, try the online interpreter in this link:
 > https://www.onlinegdb.com/online_python_interpreter
 
@@ -7,34 +6,56 @@ Make sure to select Python 3 as language in the top right of the site.
 
 # Installation guide for Python environment
 ***Nov. 2019***
-
 > ***Note:***
 >_This guide does not nesessarily always refer to the latest released version._
 >_Stable and well tested releases with high adoption among popular 3rd-party libaries are prioritised._
 >_Also, there do exist alternativ ways of installing Python. While, the section below describes the recommended method also presumed in the crash course, the most popular alternative are also described below._
 
 ## Recommended installation
-First install the basic Python application and **remember to tick the "add to path"** option (avoid installing it for all users as this will require admin rights):
-> Python 3.7.5 (64-bit) https://www.python.org/ftp/python/3.7.5/python-3.7.5-amd64.exe
+This is the installation approach we recommend.
 
-If you intend to use version control you should also install Git:
+### 1. Download and install the basic Python application
+A direct link to the installation executeable for Python 3.7.5 (64-bit) are given below. 
+On python.org you can find a more recent 3.8.0 release, but we do not yet recommend installing that.
+
+>  https://www.python.org/ftp/python/3.7.5/python-3.7.5-amd64.exe
+
+Avoid installing it for all users, as this will require admin rights (also whenever installing 3rd-party packages in the future).
+
+![](Python_all_users.png)
+
+Remember to select the "Add Python to environment variables". In this way you don't have to navigate to the installation folder everytime you want to use Python.
+
+![](Python_path.png)
+
+### 2. Download and install Git (if you intend to use version control)
+A direct link to the installation executeable for the latest Git 2.24.0 (64-bit) are given below (the officiel git homepage is git-scm.com).
 > https://github.com/git-for-windows/git/releases/download/v2.24.0.windows.1/Git-2.24.0-64-bit.exe
 
-## Miniconda
+### 3. Download and install a code editor
+An code editor is the software interface supporting you in writtin your code. This could in principle be Notepad, but much more advanced editors suited for programming exist with syntax highlighting, auto completion and much more. Note that you're free to change editor at any time.
+
+We recommend that you start with Visual Studio Code (VS Code), the now most popular free code editor in the world. A direct link to the installation executeable are provide below.
+> https://aka.ms/win32-x64-user-stable
+
+For users comming from Matlab; there do exist another editor Spyder, which has an interface very similar to Matlab.
+
+## Alternative installation - Miniconda
 Miniconda is a lightwieght version of a common distribution of Python called Anaconda, it's supposed to be a more user friendly installation. This installation makes it easy to work in an editor called Spyder, which has a lot of similarities with the Matlab environment.
 
 **Note:** If you already have a working installation of Python on your system that you are comfortable using, you don't need to follow this installation guide.
 
-### 1.  Download and install Miniconda
+### 1. Download and install Miniconda
 Choose the installer file with Python 3.7 that suits your Windows system from this site:
 >https://docs.conda.io/en/latest/miniconda.html
 
 In the installation section called *Advanced Installation Options*, check the box saying _Add Anaconda to my PATH environment variable_. It will say that it's not recommended, but do it anyway.
+
 ![](Add_anaconda_to_path.png)
 
 Other than this, just choose defaults for the installation.
 
-### 2.  Install Anaconda Navigator
+### 2. Install Anaconda Navigator
 Go to Windows Start, type `anaconda prompt` and open the program. Don't get scared by the DOS-look.
 In the program, type
 ```
@@ -44,16 +65,16 @@ and press enter to install. Type `y` when it asks.
 
 ![](Anaconda_prompt.png)
 
-### 3.  Install Editor
+### 3. Install Editor
 An editor is the software where the actual code is written. This could in principle be Notepad, but much more advanced editors suited for programming exist. These have syntax highlighting, auto completion while typing and much more.
 
 Shipped with the Anaconda Navigator comes an easy way to install two editors:
 
-### Visual Studio Code
+### Visual Studio Code (VS Code)
 ***Recommended editor for people taking the 201 course***
 
 * Many features and customization options
-* Owned by Microsoft
+* Open-source project by Microsoft
 * Very good Git integration for version control
 * Support for many lanuages, not just Python
 
