@@ -6,10 +6,10 @@ from mpl_toolkits.mplot3d import Axes3D
 
 
 # Set name of Excel file to read
-file_known = 'known_sections_plaxis.xlsx'
+file_known = 'known_points.xlsx'
 
 # Set name of sheet to read from Excel file
-sheet_known = 'known_sections_plaxis'
+sheet_known = 'Sheet1'
 
 # Read data from Excel sheet into a dataframe
 df = pd.read_excel(file_known, sheet_name=sheet_known, skiprows=7)
@@ -32,7 +32,7 @@ x_known = df['X']
 x_known = np.repeat(x_known, len(df_y.columns))
 
 # Set names and read Excel file with base slab nodes
-file_nodes = 'base_slab_nodes.xlsx'
+file_nodes = 'points_to_be_interpolated.xlsx'
 sheet_nodes = 'XLSX-Export'
 df_nodes = pd.read_excel(file_nodes, sheet_name=sheet_nodes)
 
