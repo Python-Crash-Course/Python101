@@ -9,7 +9,7 @@ Make sure to select Python 3 as language in the top right of the site.
 > ***Note:***
 >_This guide does not nesessarily always refer to the latest released version._
 >_Stable and well tested releases with high adoption among popular 3rd-party libaries are prioritised._
->_Also, there do exist alternativ ways of installing Python. While, the section below describes the recommended method also presumed in the crash course, the most popular alternative are also described below._
+>_Also, there do exist alternative ways of installing Python. While, the section below describes the recommended method also presumed in the crash course, the most popular alternative are also described below._
 
 ## Recommended installation
 This is the installation approach we recommend.
@@ -24,21 +24,23 @@ Avoid installing it for all users, as this will require admin rights (also whene
 
 ![](Python_all_users.png)
 
-Remember to select the "Add Python to environment variables". In this way you don't have to navigate to the installation folder everytime you want to use Python.
+**Remember** to select the "Add Python to environment variables". In this way you don't have to navigate to the installation folder everytime you want to use Python.
 
 ![](Python_path.png)
 
 ### 2. Download and install Git (if you intend to use version control)
-A direct link to the installation executeable for the latest Git 2.24.0 (64-bit) are given below (the officiel git homepage is git-scm.com).
+A direct link to the installation executeable for the latest Git 2.24.0 (64-bit) is given below (the official git homepage is git-scm.com).
 > https://github.com/git-for-windows/git/releases/download/v2.24.0.windows.1/Git-2.24.0-64-bit.exe
 
 ### 3. Download and install a code editor
-An code editor is the software interface supporting you in writtin your code. This could in principle be Notepad, but much more advanced editors suited for programming exist with syntax highlighting, auto completion and much more. Note that you're free to change editor at any time.
+An code editor is the software interface supporting you in writing your code. This could in principle be Notepad, but much more advanced editors suited for programming exist with syntax highlighting, auto completion and much more. Note that you're free to change editor at any time.
 
-We recommend that you start with Visual Studio Code (VS Code), the now most popular free code editor in the world. A direct link to the installation executeable are provide below.
+We recommend that you start with **Visual Studio Code (VS Code)**, the now most popular free code editor in the world. A direct link to the installation executeable is provided below.
 > https://aka.ms/win32-x64-user-stable
 
-For users comming from Matlab; there do exist another editor Spyder, which has an interface very similar to Matlab.
+To set up Visual Studio Code properly to run Python scripts, follow this guide from Step 2: [VS Code Python setup](#Visual-Studio-Code---Installation).
+
+For users who come from Matlab and want a similar editor experience, another editor called Spyder might be a good choice. 
 
 ## Alternative installation - Miniconda
 Miniconda is a lightwieght version of a common distribution of Python called Anaconda, it's supposed to be a more user friendly installation. This installation makes it easy to work in an editor called Spyder, which has a lot of similarities with the Matlab environment.
@@ -65,7 +67,7 @@ and press enter to install. Type `y` when it asks.
 
 ![](Anaconda_prompt.png)
 
-### 3. Install Editor
+### 3. Install editor
 An editor is the software where the actual code is written. This could in principle be Notepad, but much more advanced editors suited for programming exist. These have syntax highlighting, auto completion while typing and much more.
 
 Shipped with the Anaconda Navigator comes an easy way to install two editors:
@@ -97,22 +99,24 @@ This is the editor KEKL and TSJA will be using.
     If it's already installed the button will say "launch" instead of "install".
 
 2. **Setup editor for running code**
-    * Launch the editr and go the the _Extensions_ tab on the left panel (short key: <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>X</kbd>)
+    * Launch the editor and go the the _Extensions_ tab on the left panel (short key: <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>X</kbd>)
     * Make sure that the extension called Python is installed, which it should be already (Note that this editor that support all programming languages, not just Python)
-    * Search for and install the extension called _Code Runner_
+    * Search for and install the extension called _Code Runner_.
 
 3. **Select the Python version to connect to VS Code**
     * This might seem unnecessary, but some people have many versions of Python installed on their system.
     * Go to _View_ -> _Command Palette_. Write `Python: Select Interpreter` and choose the interpreter (there should only be one at this point):
-    ![](select_python_interpreter.png)
+
     * In case nothing shows up when you search "Python: Select Interpreter", try reinstalling the Python extension.
 
 4. **Create a Python file and run it**
     * Go to _File_ -> _New file_. In the file write: `print('Hello world!')`. Save it and choose Python as file type in the dropdown.
+
     * After saving you should see the syntax highlighting take effect.
+    
     * Press <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>N</kbd> to run the script. The output in the bottom of the screen should now say `'Hello world!'`
  
-Everything should now be setup!
+Everything should now be ready!
 
 After using it for a while, you might get annoyed by having to save the file before each run of the script. If you want to save it automatically before running, do this:
 
