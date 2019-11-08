@@ -4,6 +4,8 @@ If you want to try out the basics without installing Python on your PC, try the 
 
 Make sure to select Python 3 as language in the top right of the site.
 
+You'll be able to follow along with the first three sessions by this approach. Starting from Session 4 a dedicated Python installation and an editor is needed.
+
 # Installation guide for Python environment
 ***Nov. 2019***
 > ***Note:***
