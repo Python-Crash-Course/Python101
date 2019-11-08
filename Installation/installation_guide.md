@@ -12,7 +12,7 @@ Make sure to select Python 3 as language in the top right of the site.
 >_Also, there do exist alternative ways of installing Python. While, the section below describes the recommended method also presumed in the crash course, the most popular alternative are also described below._
 
 ## Recommended installation
-This is the installation approach we recommend.
+This is the installation approach we recommend. Please skim through it before starting.
 
 ### 1. Download and install the basic Python application
 A direct link to the installation executeable for Python 3.7.5 (64-bit) are given below. 
@@ -40,12 +40,10 @@ We recommend that you start with **Visual Studio Code (VS Code)**, the now most 
 
 To set up Visual Studio Code properly to run Python scripts, follow this guide from Step 2: [VS Code Python setup](#Visual-Studio-Code---Installation).
 
-For users who come from Matlab and want a similar editor experience, another editor called Spyder might be a good choice. 
+> **Note:** For users who come from Matlab and want a similar editor experience, another editor called Spyder might be a good choice. If you want to go this route, follow the alternative installation below, as Spyder works best with that approach.
 
 ## Alternative installation - Miniconda
 Miniconda is a lightwieght version of a common distribution of Python called Anaconda, it's supposed to be a more user friendly installation. This installation makes it easy to work in an editor called Spyder, which has a lot of similarities with the Matlab environment.
-
-**Note:** If you already have a working installation of Python on your system that you are comfortable using, you don't need to follow this installation guide.
 
 ### 1. Download and install Miniconda
 Choose the installer file with Python 3.7 that suits your Windows system from this site:
