@@ -11,12 +11,12 @@
 body,
 div.body {
  font-family: Roboto;
- font-size: 16pt;
+ /* font-size: 16pt; */
  color: #303030;
  /* background-color: #d1b5b5; */
  /* background: #8f4f4f; */
  margin-right: 10px;
- -webkit-font-smoothing: antialiased !important;
+ /* -webkit-font-smoothing: antialiased !important; */
 }
 
 /* Code inside HTML/Markdown */
@@ -26,7 +26,7 @@ div.rendered_html code {
 
 /* Output area from code cells */
 div.output_area pre {
-    font-size: 11pt !important;
+    /* font-size: 11pt !important; */
     color: #303030;
 }
 
@@ -37,7 +37,7 @@ h1 {
     font-family: 'Roboto', 'Signika', sans-serif;
     font-weight: ligher;
     font-style: normal;
-    font-size: 20pt;
+    /* font-size: 20pt; */
     width: 100%;
     text-align: left;
     color: #EE7631;
@@ -75,7 +75,7 @@ h1 {
 h2 {
         font-family: "Roboto";
         text-align: left;
-        font-size: 12pt;
+        /* font-size: 12pt; */
         color: #EE7631;
         margin-bottom: 5px;
         /* border-bottom: 1px solid lightgray; */
@@ -149,10 +149,17 @@ a {
 }
 
 
+/* Change global font size (for code) */
+.CodeMirror {
+font-size: 16px !important;
+font-family: monospace;
+}
+
+
 /* Code cells in the notebook - NOTE: color is font-color */
 .cm-s-ipython.CodeMirror {
  font-family: monospace, monospace;
- font-size: 11pt;
+ /* font-size: 11pt; */
  background: #ededed;
  color: #303030;     
  border-radius: 2px;
@@ -165,7 +172,7 @@ a {
 /* Background of code cells */
 .cm-s-ipython.CodeMirror {
  font-family: monospace, monospace;
- font-size: 11pt;
+ /* font-size: 11pt; */
  background: rgba(211, 211, 211, 0.123);
  color: #303030;
  border-radius: 2px;
@@ -252,6 +259,3 @@ a {
 .cm-s-ipython span.cm-quote {
  color: #009e07;
 }
-
-
-
