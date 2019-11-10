@@ -117,3 +117,7 @@ venv.bak/
 !Anaconda_navigator.png
 !Anaconda_prompt.png
 !select_python_interpreter.png
+
+# dat-files
+*.dat
+!interpolation_output_example.dat

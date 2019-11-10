@@ -1,0 +1,261 @@
+
+/* div#notebook {
+ font-size: 13pt;
+ line-height: 120%;
+ color: #303030;
+ -webkit-font-smoothing: antialiased !important;
+ padding-top: 25px !important;
+} */
+
+
+body,
+div.body {
+ font-family: Roboto;
+ /* font-size: 16pt; */
+ color: #303030;
+ /* background-color: #d1b5b5; */
+ /* background: #8f4f4f; */
+ margin-right: 10px;
+ /* -webkit-font-smoothing: antialiased !important; */
+}
+
+/* Code inside HTML/Markdown */
+div.rendered_html code {
+    border-radius: 5px;
+}
+
+/* Output area from code cells */
+div.output_area pre {
+    /* font-size: 11pt !important; */
+    color: #303030;
+}
+
+
+
+/* HEADING 1 styles */
+h1 {
+    font-family: 'Roboto', 'Signika', sans-serif;
+    font-weight: ligher;
+    font-style: normal;
+    /* font-size: 20pt; */
+    width: 100%;
+    text-align: left;
+    color: #EE7631;
+    border-bottom: 1px solid rgba(238, 118, 49, 0.575);
+    padding-bottom: 6px;
+    /* font-variant: small-caps; */
+    }
+  
+    /* table {
+        margin: 5px;
+        width: 290px;
+    }
+  
+    th {
+        padding: 3px;
+    }
+  
+    td {
+        padding-left: 8px;
+        padding-right: 8px;
+        border: 1px solid #990000;
+        background-color: #ffffcc;
+    }
+
+    #trHeader {
+        text-decoration: underline;
+        color: #990000;
+    }
+  
+    .centerCell {
+        text-align: center;
+    } */
+
+/* HEADING 2 styles */
+h2 {
+        font-family: "Roboto";
+        text-align: left;
+        /* font-size: 12pt; */
+        color: #EE7631;
+        margin-bottom: 5px;
+        /* border-bottom: 1px solid lightgray; */
+        border-bottom: 0.8px solid rgba(238, 118, 49, 0.575);
+        padding-bottom: 6px
+    }
+  
+    /* table {
+        margin: 5px;
+        width: 290px;
+    }
+  
+    th {
+        padding: 3px;
+    }
+  
+    td {
+        padding-left: 8px;
+        padding-right: 8px;
+        border: 1px solid #990000;
+        background-color: #ffffcc;
+    }
+
+    #trHeader {
+        text-decoration: underline;
+        color: #990000;
+    }
+  
+    .centerCell {
+        text-align: center;
+    } */
+
+h3 {
+        font-family: 'Roboto';
+        /* text-align: left; */
+        /* font-size: 12pt; */
+        /* color: #EE7631; */
+        /* margin-bottom: 5px; */
+        border-bottom: 0.5px solid #ededed;
+        padding-bottom: 6px
+    }
+
+
+
+p {
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+/* Lists  with dots */
+ul {
+    font-size: 16px;
+    line-height: 150%;
+}
+
+/* Lists  with numbers */
+ol {
+    font-size: 16px;
+    line-height: 150%;
+}
+
+/* Horizontal rules */
+hr { 
+    margin-top: 3px; 
+    margin-bottom: 3px 
+}
+
+/* Links */
+a {
+  color: #EE7631;
+}
+
+
+/* Change global font size (for code) */
+.CodeMirror {
+font-size: 16px !important;
+font-family: monospace;
+}
+
+
+/* Code cells in the notebook - NOTE: color is font-color */
+.cm-s-ipython.CodeMirror {
+ font-family: monospace, monospace;
+ /* font-size: 11pt; */
+ background: #ededed;
+ color: #303030;     
+ border-radius: 2px;
+ /* margin-right: 10px; */
+ font-style: normal;
+ font-weight: normal;
+}
+
+
+/* Background of code cells */
+.cm-s-ipython.CodeMirror {
+ font-family: monospace, monospace;
+ /* font-size: 11pt; */
+ background: rgba(211, 211, 211, 0.123);
+ color: #303030;
+ border-radius: 2px;
+ font-style: normal;
+ font-weight: normal;
+}
+
+
+/* .CodeMirror-gutters {
+ border: none;
+ border-right: 1px solid #e0e1e3 !important;
+ background-color: #e0e1e3 !important;
+ background: #e0e1e3 !important;
+ border-radius: 0px;
+ white-space: nowrap;
+} */
+
+
+
+/* Code syntax highlithig theme */
+.cm-s-ipython .CodeMirror-cursor {
+ border-left: 2px solid #ff711a !important;
+}
+.cm-s-ipython span.cm-comment {
+ color: #8d8d8d;
+ font-style: italic;                                                   
+}
+.cm-s-ipython span.cm-atom {
+ color: #055be0;
+}
+.cm-s-ipython span.cm-number {
+ color: #ff8132;
+}
+.cm-s-ipython span.cm-property {
+ color: #303030;
+}
+.cm-s-ipython span.cm-attribute {
+ color: #303030;
+}
+.cm-s-ipython span.cm-keyword {
+ color: #a045ddf3;
+ font-weight: normal;
+}
+.cm-s-ipython span.cm-string {
+ color: #009e07;
+}
+.cm-s-ipython span.cm-meta {
+ color: #aa22ff;
+}
+.cm-s-ipython span.cm-operator {
+ color: #055be0;
+}
+.cm-s-ipython span.cm-builtin {
+ color: #3f2ce7;
+}
+.cm-s-ipython span.cm-variable {
+ color: #303030;
+}
+.cm-s-ipython span.cm-variable-2 {
+ color: #de143d;
+}
+.cm-s-ipython span.cm-variable-3 {
+ color: #aa22ff;
+}
+.cm-s-ipython span.cm-def {
+ color: #e22978;
+ font-weight: normal;
+}
+.cm-s-ipython span.cm-error {
+ background: rgba(191,11,55,.70);
+}
+.cm-s-ipython span.cm-tag {
+ color: #e22978;
+}
+.cm-s-ipython span.cm-link {
+ color: #ef5c00;
+}
+.cm-s-ipython span.cm-storage {
+ color: #055be0;
+}
+.cm-s-ipython span.cm-entity {
+ color: #e22978;
+}
+.cm-s-ipython span.cm-quote {
+ color: #009e07;
+}

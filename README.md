@@ -82,9 +82,15 @@ These notes have some content that overlaps with the notes for each session, but
 
 * [Sentdex](https://www.youtube.com/user/sentdex)
    - Videos on many topics ranging from beginner to advanced.
-   
- 
+    
 ### Git and GitHub
+
+* [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) - Good video explanation from the GitHub Youtube Channel
+
+* [The GitHub workflow](https://www.youtube.com/watch?v=PBI2Rz-ZOxU) - Youtube video explaining a simple and effective workflow using Git and GitHub
+
+* [GitHub Learning Lab](https://lab.github.com/) - Interactive tutorial that goes through usage GitHub
+
 * [Ressources to Learn Git](https://try.github.io/)
 
 * [Git and GitHub for Beginners](https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/)
@@ -92,6 +98,7 @@ These notes have some content that overlaps with the notes for each session, but
    
 ### Coding Challenge Sites
 * [CodeWars (Coding challenge site)](https://www.codewars.com/)
+
 
 * [Edabit (Coding challenge site)](https://edabit.com/)   
    
