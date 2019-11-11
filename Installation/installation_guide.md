@@ -116,6 +116,8 @@ This is the editor KEKL and TSJA will be using.
     
     * Press <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>N</kbd> to run the script. The output in the bottom of the screen should now say `'Hello world!'`
  
+> **Note:** If you get the error `'python' is not recognized as an internal or external command`, try restarting the editor. Sometimesit requires a restart for the interpreter to take effect. 
+ 
 Everything should now be ready!
 
 After using it for a while, you might get annoyed by having to save the file before each run of the script. If you want to save it automatically before running, do this:
