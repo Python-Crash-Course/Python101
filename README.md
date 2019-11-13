@@ -9,12 +9,14 @@
 [![Last Commit](https://img.shields.io/github/last-commit/Python-Crash-Course/Python101)](https://github.com/Python-Crash-Course/Python101/commits/master)
 [![Contributors](https://img.shields.io/github/contributors/Python-Crash-Course/Python101)](https://github.com/orgs/Python-Crash-Course/people)
 
-This GitHub repository contains material for a beginner Python course held in COWI Lyngby during Fall 2019. If you don't have Python installed please check out the [Python environment installation guideline](https://python-crash-course.github.io/Python101/Installation/installation_guide.html).
-
+This GitHub repository contains material for a beginner Python course held in COWI Lyngby during 2019/2020. If you don't have Python installed please check out the [Python environment installation guideline](https://python-crash-course.github.io/Python101/Installation/installation_guide.html).
+ 
 ## Sessions Notes and Exercises 
-Descriptions and exercises for each session are in the format of HTML-files created with Jupyter Notebooks. See links to the files for each session below.
+Descriptions and exercises for each session are in the format of Jupyter Notebooks. The links below provide convenient ways to view the notebooks for each session.
 
-In the *code* tab of this repository there will be a folder for each session. In case an exercise requires additional files like .csv-files or scripts, they will be present there.
+In the *code* tab of this repository there will be a folder for each session. In case an exercise requires additional files like csv files or scripts, they will be present there.
+
+* [Session 0 - Introduction](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%200%20-%20Introduction/Session%200%20-%20Exercises.ipynb) 
 
 * [Session 1 - Data Types](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%201%20-%20Data%20Types/Session%201%20-%20Data%20Types.ipynb)
 
@@ -37,6 +39,7 @@ In the *code* tab of this repository there will be a folder for each session. In
 
 ## Session Exercise Solutions
 
+* Session 0 - Introduction (No solutions)
 
 * Session 1 - Data Types (No solutions)
 
