@@ -18,7 +18,7 @@ Descriptions and exercises for each session are in the format of Jupyter Noteboo
 
 In the *code* tab of this repository there will be a folder for each session. In case an exercise requires additional files like csv files or scripts, they will be present there.
 
-* [Session 0 - Introduction](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%200%20-%20Introduction/Session%200%20-%20Exercises.ipynb)
+* [Session 0 - Warm-up exercises](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%200%20-%20Introduction/Session%200%20-%20Exercises.ipynb) (Download introduction PowerPoint [here](https://github.com/Python-Crash-Course/Python101/raw/master/Session%200%20-%20Introduction/Session%200%20-%20Introduction.pptx))
 
 * [Session 1 - Data Types](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%201%20-%20Data%20Types/Session%201%20-%20Data%20Types.ipynb)
 
