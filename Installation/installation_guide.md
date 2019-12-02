@@ -2,7 +2,7 @@
 
 If you want to try out the basics without installing Python on your PC, try the online interpreter in this link:
 
-> <a href="https://www.onlinegdb.com/online_python_interpreter" target="_blank">https://www.onlinegdb.com/online_python_interpreter</a>
+> <a href="https://www.pythonanywhere.com/try-ipython/" target="_blank">https://www.pythonanywhere.com/try-ipython/</a>
 
 Make sure to select Python 3 as language in the top right of the site.
 
