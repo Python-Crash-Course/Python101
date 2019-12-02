@@ -29,11 +29,11 @@ On python.org you can find a more recent 3.8.0 release, but we do not yet recomm
 
 Avoid installing it for all users, as this will require admin rights (also whenever installing 3rd-party packages in the future).
 
-![](Python_all_users.png)
+![alt text](Python_all_users.png)
 
 **Remember** to select the "Add Python to environment variables". In this way you don't have to navigate to the installation folder everytime you want to use Python.
 
-![](Python_path.png)
+![alt text](Python_path.png)
 
 ### 2. Download and install Git (if you intend to use version control)
 
@@ -65,7 +65,7 @@ Choose the installer file with Python 3.7 that suits your Windows system from th
 
 In the installation section called *Advanced Installation Options*, check the box saying _Add Anaconda to my PATH environment variable_. It will say that it's not recommended, but do it anyway.
 
-![](Add_anaconda_to_path.png)
+![alt text](Add_anaconda_to_path.png)
 
 Other than this, just choose defaults for the installation.
 
@@ -73,12 +73,14 @@ Other than this, just choose defaults for the installation.
 
 Go to Windows Start, type `anaconda prompt` and open the program. Don't get scared by the DOS-look.
 In the program, type
+
 ```
 conda install -c anaconda anaconda-navigator
 ```
+
 and press enter to install. Type `y` when it asks.
 
-![](Anaconda_prompt.png)
+![alt text](Anaconda_prompt.png)
 
 ### 3. Install editor
 
@@ -116,21 +118,18 @@ This is the editor KEKL and TSJA will be using.
 
 2. **Setup editor for running code**
     * Launch the editor and go the the _Extensions_ tab on the left panel (short key: <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>X</kbd>)
-    * Make sure that the extension called Python is installed, which it should be already (Note that this editor that support all programming languages, not just Python)
+    * Make sure that the extension called Python is installed, which it should be already (Note that this editor support many programming languages, not just Python)
     * Search for and install the extension called _Code Runner_.
 
 3. **Select the Python version to connect to VS Code**
     * This might seem unnecessary, but some people have many versions of Python installed on their system.
     * Go to _View_ -> _Command Palette_. Write `Python: Select Interpreter` and choose the interpreter (there should only be one at this point):
-
     * In case nothing shows up when you search "Python: Select Interpreter", try reinstalling the Python extension.
 
 4. **Create a Python file and run it**
     * Go to _File_ -> _New file_. In the file write: `print('Hello world!')`. Save it and choose Python as file type in the dropdown.
-
     * After saving you should see the syntax highlighting take effect.
-
-    * Press <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>N</kbd> to run the script. The output in the bottom of the screen should now say `'Hello world!'`
+    * Press <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>N</kbd> or press the _play_ icon on the upper right to run the script. The output in the bottom of the screen should now say `'Hello world!'`
 
 > **Note:** If you get the error `'python' is not recognized as an internal or external command`, try restarting the editor. Sometimes it requires a restart for the interpreter setting to take effect.
 
@@ -138,10 +137,22 @@ Everything should now be ready!
 
 After using it for a while, you might get annoyed by having to save the file before each run of the script. If you want to save it automatically before running, do this:
 
-Go to the gear icon in the bottom left -> Settings -> Text Editor and scroll down to Edit in settings.json. Open the link and add this line in between the curly brackets:
+Go to the gear icon in the bottom left -> Settings -> Text Editor and scroll down to _Edit in settings.json_ (or search for it). Open the link and add this line in between the curly brackets:
+
 ```python
 "code-runner.saveFileBeforeRun": true,
 ```
+
+#### Code Linter
+
+A code linter highlights code not aligned with best practice formatting.
+To activate linter:
+
+* Press <kbd>CTRL</kbd>+<kbd>SHIFT</kbd>+<kbd>P</kbd>
+* Search for _select linter_
+* Chose _pycodestyle_ (follows the PEP8 guideline)
+
+VS Code will promt you with any missing pip packages. Just accept these for automatic installation.
 
 ### Spyder - Installation
 
