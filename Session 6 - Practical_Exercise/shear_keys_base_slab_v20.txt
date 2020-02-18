@@ -1,4 +1,4 @@
-LC,LC-title,NR,NG,vx[kN/m]
+stage,stage_title,element_no,group,vx[kN/m]
 4031,Shear keys - BS - 2553/2554,20101,201,2.33
 4031,Shear keys - BS - 2553/2554,20102,201,1.29
 4031,Shear keys - BS - 2553/2554,20103,201,0.87
