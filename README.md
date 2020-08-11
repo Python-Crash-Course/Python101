@@ -32,7 +32,9 @@ In the *code* tab of this repository there will be a folder for each session. In
 
 * [Session 5 - DataFrames](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%205%20-%20Dataframes/Session%205%20-%20Dataframes.ipynb)
 
-* [Session 6 - Practical Exercise](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%206%20-%20Practical_Exercise/Session%206%20-%20Exercise.ipynb)
+* [Session 6A - Practical Exercise](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%206%20-%20Practical_Exercise/Session%206A%20-%20Exercise.ipynb)
+
+* [Session 6B - Practical Exercise](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%206%20-%20Practical_Exercise/Session%206B%20-%20Exercise.ipynb)
 
 * [Session 7 - Coordinate Transformation](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%207%20-%20Coordinate%20Transformation/Session%207%20-%20Coordinate%20Transformation.ipynb)
 
@@ -54,7 +56,9 @@ In the *code* tab of this repository there will be a folder for each session. In
 
 * [Session 5 - DataFrames](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%205%20-%20Dataframes/Session%205%20-%20Exercise%20Solutions.ipynb)
 
-* [Session 6 - Exercise (shear key plots)](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%206%20-%20Practical_Exercise/Session%206%20-%20Exercise%20Solutions.ipynb)
+* [Session 6A - Exercise (shear key plots)](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%206%20-%20Practical_Exercise/Session%206A%20-%20Exercise%20Solutions.ipynb)
+
+* [Session 6B - Exercise (bending moment plots)](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%206%20-%20Practical_Exercise/Session%206B%20-%20Exercise%20Solutions.ipynb)
 
 * [Session 7 - Coordinate Transformation](https://nbviewer.jupyter.org/github/Python-Crash-Course/Python101/blob/master/Session%207%20-%20Coordinate%20Transformation/Session%207%20-%20Exercise%20solutions.ipynb)
 
